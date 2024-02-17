@@ -18,5 +18,4 @@ NumPy
 1. Clone the repository.
 2. Install the required dependencies: pip install tensorflow numpy
 3. Download the Shakespeare dataset: https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt
-4. Run the Python script train.py to train the model.
-5. Run the Python script generate.py to generate text with the trained model.
+4. Run the Python script textgen1.ipynb 
